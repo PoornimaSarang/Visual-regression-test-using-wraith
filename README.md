@@ -7,11 +7,11 @@ The advent of rich and responsive UI design has made testing of webapps and webs
 	`brew install imagemagick`
 2. Ruby  
 	`rvm install <ruby-version>` replace &lt;ruby-version&gt; with version specified in [.ruby-version](.ruby-version)
-3. Casperjs
+3. Casperjs		
 	`brew install casperjs`
-4. npm
+4. npm		
 	`brew install npm`
-5. bundle
+5. bundle		
 	`gem install bundle`
 
 ## Setup
