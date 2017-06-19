@@ -8,7 +8,7 @@ The advent of rich and responsive UI design has made testing of webapps and webs
 2. Ruby  
 	`rvm install <ruby-version>` replace &lt;ruby-version&gt; with version specified in [.ruby-version](.ruby-version)
 3. Casperjs
-   `brew install casperjs`
+   	`brew install casperjs`
 
 ## Setup
 
